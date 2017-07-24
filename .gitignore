@@ -1,0 +1,16 @@
+*.log
+
+results
+logs
+results
+
+.DS_Store
+
+npm-debug.log
+node_modules
+
+.env
+
+# Omits IDE project-management directory
+nbproject*
+/nbproject/private/

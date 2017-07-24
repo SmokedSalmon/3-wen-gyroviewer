@@ -1,0 +1,27 @@
+{
+  "name": "webgl-gyro-viewer",
+  "version": "0.0.0",
+  "description": "A HTML5 VR viewer utilizing mobile device gyro sensor to interact with WebGL",
+  "main": "app.js",
+  "engines": {
+        "node": ">=6.9.1"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EthanRBrown/web-development-with-node-and-express.git"
+  },
+  "author": "Jerry Su <jerrysu.jie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanRBrown/web-development-with-node-and-express/issues"
+  },
+  "homepage": "http://3-wen.com",
+  "dependencies": {
+    "express": "~4.4.2",
+    "express-handlebars": "~3.0.0"
+  }
+}
